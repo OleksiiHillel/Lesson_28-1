@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10c38d2e-422b-4ff4-bddf-d05dbf0e9bfb" name="Changes" comment="From Homework_26">
+    <list default="true" id="10c38d2e-422b-4ff4-bddf-d05dbf0e9bfb" name="Changes" comment="From Homework_27">
+      <change afterPath="$PROJECT_DIR$/src/Homework_27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2IiZ00vs3YyqzvLAzTQiwYowjWk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,9 +43,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Homework_27">
     <configuration name="Homework_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework_26" />
+      <module name="Lesson_28-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_27" />
       <module name="Lesson_28-1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,8 +67,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Homework_27" />
         <item itemvalue="Application.Homework_26" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -90,12 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1671380347461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="From Homework_27">
+      <created>1671703500654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671703500654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="From lesson 28-1" />
     <MESSAGE value="From Homework_26" />
-    <option name="LAST_COMMIT_MESSAGE" value="From Homework_26" />
+    <MESSAGE value="From Homework_27" />
+    <option name="LAST_COMMIT_MESSAGE" value="From Homework_27" />
   </component>
 </project>

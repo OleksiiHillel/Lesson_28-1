@@ -30,7 +30,7 @@ public class Homework_26 {
             System.out.println("Точка пересечения находится в 4-й плоскости");
         }*/
 
-        int a = 4;
+        /*int a = 4;
         int b = 5;
         int c = 3;
 
@@ -39,7 +39,7 @@ public class Homework_26 {
         }
         else {
             System.out.println("Такой треугольник построить нельзя");
-        }
+        }*/
 
     }
 }
