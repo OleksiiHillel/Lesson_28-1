@@ -21,6 +21,16 @@ public class Homework_27 {
         }
         System.out.println(result);*/
 
+        int k = 3;
+        int result = 1;
+        for (int i = 1; i<=9; i++){
+            result = k*i;
+            System.out.println(result);
+
+
+
+
+
 
     }
 }
